@@ -1,0 +1,6 @@
+[book]
+authors = ["Radenz"]
+language = "en"
+multilingual = false
+src = "."
+title = "IF3151 Interaksi Manusia Komputer"

@@ -1,0 +1,6 @@
+[book]
+authors = ["Radenz"]
+language = "en"
+multilingual = false
+src = "."
+title = "IF3140 Manajemen Basis Data"

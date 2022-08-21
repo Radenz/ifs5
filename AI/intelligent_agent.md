@@ -70,6 +70,7 @@ Untuk menilai bahwa agent sukses dalam melakukan aksinya, perlu didefinisikan **
 Rational agent akan memilih aksi yang diyakininya akan membawa agent mencapai goal yang diharapkan. Sebagai contoh, jika seseorang tidak ingin basah maka:
 1. Jika orang tersebut melihat prakiraan cuaca yang ternyata tidak akan hujan, maka membawa payung adalah aksi yang tidak rasional.
 2. Jika orang tersebut tidak melihat prakiraan cuaca, maka membawa payung adalah aksi yang rasional.
+
 Rasional **bukan** berarti **mahatahu** '*omniscience*', contohnya jika pada poin (2) ternyata ramalan cuaca adalah tidak akan hujan. Rasional juga **bukan** berarti **sukses**, contohnya jika orang tersebut sukses menghindari digigit anjing dengan payung, padahal payung digunakan untuk menghindari hujan.
 ### Limited Rationality
 Agent mungkin tidak bisa melakukan komputasi untuk memliih aksi terbaik karena keterbatasan komputasi, maka rasionalitas agent terbatas pada batasan komputasi. Maka, pemilihan aksi untuk mendapatkan *sequence state* yang memiliki $U$ maksimal **terbatas** pada **kemampuan komputasi** yang dimiliki agent.
