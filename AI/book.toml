@@ -1,0 +1,12 @@
+[book]
+authors = ["Radenz"]
+language = "en"
+multilingual = false
+src = "."
+title = "IF3170 Intelegensi Buatan"
+
+[preprocessor.transform]
+command = "python ../shared/transform.py"
+
+[output.html]
+mathjax-support = true
