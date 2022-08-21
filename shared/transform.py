@@ -5,6 +5,9 @@ import sys
 
 def transform(book):
     for i in range(len(book["sections"])):
+        # Separator case
+        if type(book["sections"][i]) != dict:
+            continue
         book["sections"][i]["Chapter"]["content"] = re.sub(
             r'\$(.*?)\$', r'\\\\(\1\\\\)', book["sections"][i]["Chapter"]["content"])
     return book
