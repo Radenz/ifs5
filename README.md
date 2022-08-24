@@ -3,7 +3,7 @@ Repository ini digunakan untuk menampung semua catatan kuliah IF ITB semester 5.
 
 ## Reading Guide
 
-Ada beberapa cara ntuk membaca catatan-catatan yang tersedia.
+Ada beberapa cara untuk membaca catatan-catatan yang tersedia.
 
 ### Online book  
 Catatan setiap mata kuliah tersedia secara online pada website-website berikut.
