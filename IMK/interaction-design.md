@@ -53,7 +53,6 @@ Berbagai *user experience goals* telah diungkapkan dalam desain interaksi, yang 
 |:------------:|:-----------------------:|
 | Frustating    | Patronizing              |
 | Making one feel guilty|Making one feel stupid|
-| Pleasurable  | Enhancing sociability   |
 | Annoying     | Cutesy   |
 | Childish | Gimmicky |
 
