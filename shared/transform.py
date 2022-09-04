@@ -37,7 +37,5 @@ if __name__ == '__main__':
             sys.exit(0)
 
     context, book = json.load(sys.stdin)
-    sys.stderr.write(json.dumps(book, indent=2))
     book = transform(book)
-    sys.stderr.write(json.dumps(book, indent=2))
     print(json.dumps(book))
