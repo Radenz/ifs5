@@ -12,7 +12,7 @@ Karena pada dasarnya local beam search mencari $k$ state successor terbaik, maka
 ### Fitness Function
 Dalam genetic algorithm, state value disebut dengan *fitness function*. Sebagai contoh, pada N-Queens Problem, fitness function dinyatakan dengan banyaknya pasangan queen yang tidak saling menyerang, sehingga memiliki nilai:
 - minimum = $0$
-- maximum = $8 \times 7$ = $28$
+- maximum = $(8 \times 7)/2$ = $28$
 
 ### Initial Population
 Genetic algorithm dimulai dengan menginisialisasi populasi yang terdiri atas $k$ state random.
