@@ -7,8 +7,8 @@
 	- [Classical vs Local Search](classical-vs-local-search.md)
 	- [State: Value, Successor, and Neighbor](state.md)
 	- [Hill Climbing Search](hill-climbing-search.md)
-	- [Simulated Annealing]()
-	- [Genetic Algorithm]()
+	- [Simulated Annealing](./simulated-annealing.md)
+	- [Genetic Algorithm](./genetic-algorithm.md)
 ---
 
 [CONTRIBUTING](./contributing.md)
