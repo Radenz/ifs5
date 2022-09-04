@@ -63,6 +63,7 @@ Perbedaan antara *discrete* dan *continuous* berlaku pada state lingkungan, baga
 
 ### 6. Single-Agent vs Multiagent
 Pada lingkungan *single-agent*, perubahan state hanya bergantung pada agen yang melakukan aksi. Pada lingkungan *multiagent*, perubahan state lingkungan juga dipengaruhi oleh aksi agen yang lain.
+
 >*Lingkungan single-agent berarti lingkungan yang di dalamnya hanya terdapat satu agen saja, sedangkan lingkungan multiagent adalah lingkungan yang di dalamnya memuat agen lain atau entitas dan objek lain yang adapat dianggap sebagai agen. Entitas/objek yang dimaksud adalah entitas/objek yang perilakunya seperti memaksimumkan performance measure tertentu yang nilainya bergantung pada agen yang menjadi perhatian*.
 
 Contoh lingkungan single-agent adalah lingkungan agen *Rubik's cube solver*, sedangkan contoh lingkungan multiagent adalah lingkungan agen permainan poker.

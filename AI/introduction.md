@@ -1,7 +1,5 @@
 # Introduction to Artificial Intelligence
 
-> **TODO: Tambah TL;DR**
-
 > **Quick links**
 > - [Edunex](https://edunex.itb.ac.id/courses/43590/preview/100865/42971)
 > 	- [Slide](https://cdn-edunex.itb.ac.id/31964-Artificial-Intelligence-[General-Class]/24042-Minggu-1/7077-Introduction-to-AI/1629533226011_IF3170_AI-Introduction.pdf)
