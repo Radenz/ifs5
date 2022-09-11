@@ -1,5 +1,9 @@
 # Adversarial Search
 
+> **Quick links**
+> - [Edunex](https://edunex.itb.ac.id/courses/43590/preview/100868/42976)
+> 	- [Slide](https://cdn-edunex.itb.ac.id/31964-Artificial-Intelligence-Parallel-Class/24045-Minggu-4/16362-Beyond-Classical-Search-Part-2/1631021993499_IF3170_Materi04_AdversarialSearchpptx.pdf)
+
 ## Games
 Dalam lingkungan multiagent, agent harus mempertimbangkan aksi-aksi agent lain dan efeknya terhadap agent tersebut. Agent-agent dalam lingkungan multiagent memungkinkan lingkungan menjadi kompetitif ketika agent-agent memiliki tujuan yang saling konflik satu sama lain sehingga timbul masalah **adversarial search**, yang sering dikenal sebagai **games**. Dalam AI, game-game yang umum adalah jenis game tertentu, yang disebut deterministic, turn-taking, two-player, **zero-sum games** of **perfect information**; misalnya catur.
 
