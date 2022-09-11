@@ -7,13 +7,13 @@ Ada beberapa cara untuk membaca catatan-catatan yang tersedia.
 
 ### Online book  
 Catatan setiap mata kuliah tersedia secara online pada website-website berikut.
-- [IF3110 Pengembangan Aplikasi Berbasis Web](https://if3110-wbd.web.app)
-- [IF3130 Jaringan Komputer](https://if3130.web.app)
-- [IF3140 Manajemen Basis Data](https://if3140.web.app)
-- [IF3141 Sistem Informasi](https://if3141.web.app)
-- [IF3150 Manajemen Proyek Perangkat Lunak](https://if3150.web.app)
-- [IF3151 Interaksi Manusia Komputer](https://if3151.web.app)
-- [IF3170 Intelegensi Buatan](https://if3170-ai.web.app)
+- [IF3110 Pengembangan Aplikasi Berbasis Web](https://if3110-wbd.web.app) (planned, postponed)
+- [IF3130 Jaringan Komputer](https://if3130.web.app) (planned)
+- [IF3140 Manajemen Basis Data](https://if3140.web.app) (planned, postponed)
+- [IF3141 Sistem Informasi](https://if3141.web.app) (inactive)
+- [IF3150 Manajemen Proyek Perangkat Lunak](https://if3150.web.app) (inactive)
+- [IF3151 Interaksi Manusia Komputer](https://if3151.web.app) (active, postponed)
+- [IF3170 Intelegensi Buatan](https://if3170-ai.web.app) (active, up-to-date)
 
 ### Markdown viewer  
 Catatan yang ada dapat dibaca dengan berbagai aplikasi
